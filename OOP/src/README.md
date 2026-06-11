@@ -91,7 +91,7 @@ Built as a **group software engineering project**, GreenLoop demonstrates clean 
 |-------|---------------------|
 | ![Login](docs/screenshots/login.png) | ![Email](docs/screenshots/email.png) |
 
-> 📁 Place your screenshots in `docs/screenshots/` — see [Adding Screenshots](#adding-screenshots).
+
 
 ---
 
