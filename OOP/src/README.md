@@ -275,12 +275,12 @@ See [`database/greenloop_schema.sql`](database/greenloop_schema.sql) for the ful
 
 ## 👥 Team
 
-| Name | Role / Modules |
+| Name | Role |
 |------|---------------|
-| **[Your Name]** | Reports Panel, Quota Dashboard, PDF Export, Report APIs |
-| **[Teammate 1]** | Orders, Delivery, Stock Transaction |
-| **[Teammate 2]** | Authentication, User Management, Settings |
-| **[Teammate 3]** | Products, Clients, Email Notifications |
+| **[Manushan Sandeepa]** | Group Leader |
+| **[Movin Jayathilaka]** | Team member |
+| **[Ashara Herath]** | Team member |
+| **[Ashen Herath]** | Team member |
 
 ---
 
@@ -288,15 +288,7 @@ See [`database/greenloop_schema.sql`](database/greenloop_schema.sql) for the ful
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
 
-## Adding Screenshots
-
-1. Create a folder: `docs/screenshots/`
-2. Take screenshots of: `login.png`, `dashboard.png`, `orders.png`, `inventory.png`, `reports.png`, `email.png`
-3. Commit and push — the table in this README will show them automatically
-
----
 
 <div align="center">
 
