@@ -277,10 +277,10 @@ See [`database/greenloop_schema.sql`](database/greenloop_schema.sql) for the ful
 
 | Name | Role |
 |------|---------------|
-| **[Manushan Sandeepa]** | Group Leader |
-| **[Movin Jayathilaka]** | Team member |
-| **[Ashara Herath]** | Team member |
-| **[Ashen Herath]** | Team member |
+| **Manushan Sandeepa** | Group Leader |
+| **Movin Jayathilaka** | Team member |
+| **Ashara Herath** | Team member |
+| **Ashen Herath** | Team member |
 
 ---
 
