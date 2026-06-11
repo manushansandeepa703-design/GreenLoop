@@ -26,7 +26,18 @@
 Built as a **group software engineering project**, GreenLoop demonstrates clean MVC design, database transaction management, role-based access control, and professional Java Swing UI using the FlatLaf modern look and feel.
 
 
+---
 
+## 👥 Team
+
+| Name | Role |
+|------|---------------|
+| **Manushan Sandeepa** | Group Leader |
+| **Movin Jayathilaka** | Team member |
+| **Ashara Herath** | Team member |
+| **Ashen Herath** | Team member |
+
+---
 
 
 <div align="center">
