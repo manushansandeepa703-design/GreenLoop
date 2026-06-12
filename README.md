@@ -28,7 +28,7 @@ Built as a **group software engineering project**, GreenLoop demonstrates clean 
 
 ---
 
-## <img width="48" height="48" src="https://img.icons8.com/color/48/conference-foreground-selected-skin-type-7.png" alt="conference-foreground-selected-skin-type-7"/> Team
+## <img width="48" height="48" src="https://img.icons8.com/color/48/conference-foreground-selected-skin-type-7.png" alt="conference-foreground-selected-skin-type-7"/>  Team
 
 | Name | Role |
 |------|---------------|
